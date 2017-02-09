@@ -99,6 +99,7 @@
     <string name="strDocConvertLL">Converter coordenadas a partir de Latitude/Longitude (graus decimais)</string>
     <string name="strDocConvertGMS">Converter coordenadas a partir de Latitude/Longitude (graus, minutos e segundos)</string>
     <string name="file_not_saved">File could not be saved</string>
+    <string name="csv_export">CSV Export</string>
 
     <string name="convert_utm">Convert from UTM coordinates</string>
     <string name="convert_latlon">Convert from Latitude/Longitude</string>
